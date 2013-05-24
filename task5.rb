@@ -20,8 +20,8 @@ class Main
 				Circle.description
 				Circle.draw
 			when 4
-				Hash.description
-				Hash.main
+				HashValue.description
+				HashValue.main
 			else
 			puts "Неправильный номер"
 		end
